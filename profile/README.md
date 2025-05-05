@@ -18,6 +18,7 @@ Some of the key repositories within DevLabFoundry:
 
 - **[configmanager](https://github.com/DevLabFoundry/configmanager)** - A robust configuration management tool.
 - **[aws-cli-auth](https://github.com/DevLabFoundry/aws-cli-auth)** - Simplified AWS authentication workflows.  
+- **[async-api-doc-generator](https://github.com/DevLabFoundry/async-api-generator)** - AsyncAPI Document generator for EDA projects - uses code annotations and is language agnostic.  
 - *(More tools coming soon!)*  
 
 ## 🎯 Our Mission
